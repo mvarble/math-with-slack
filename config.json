@@ -3,7 +3,7 @@
   "inlineMath": [["$", "$"]],
   "displayMath": [["$$", "$$"]],
   "macros": {
-    "rmd": "\\mathrm{d}",
+    "rmd": "{\\rm d}",
     "rmA": "\\mathrm{A}",
     "rmB": "\\mathrm{B}",
     "rmC": "\\mathrm{C}",
