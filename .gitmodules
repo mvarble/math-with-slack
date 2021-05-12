@@ -1,0 +1,3 @@
+[submodule "math-with-slack"]
+	path = math-with-slack
+	url = https://github.com/thisiscam/math-with-slack
